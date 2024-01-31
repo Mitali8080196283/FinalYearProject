@@ -4,6 +4,6 @@ Store. When we used various factors to detect software fraud, our model performe
 Play Store apps that are saved for security reasons. We also put up a fresh method for locating rival apps to a certain target app. First, we identified the key competitive criteria to do this. application domain to 
 business domain. According to the total similarity score, we used weighted k-means clustering to divide the candidate apps for a certain app, make a cluster and find competing apps
 
-<h1> Video of our project </h1>
+Video of our project:
 
 https://drive.google.com/file/d/18zqDsswAPk944AWsTGeADukHRIO7SmtM/view?usp=drive_link
